@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "sharp-sans";
+    src: url(../assets/fonts/Sharp\ Sans.otf);
+}
+@font-face {
+    font-family: "sharp-sans-bold";
+    src: url(../assets/fonts/Sharp\ Sans\ Bold.otf);
+}
+@font-face {
+    font-family: "sharp-sans-light";
+    src: url(../assets/fonts/Sharp\ Sans\ Light.otf);
+}
+@font-face {
+    font-family: "sharp-sans-medium";
+    src: url(../assets/fonts/Sharp\ Sans\ Medium.otf);
+}   
+@font-face {
+    font-family: "sharp-sans-semibold";
+    src: url(../assets/fonts/Sharp\ Sans\ Medium.otf);
+}
